@@ -1,0 +1,14 @@
+# Ignore arquivos gerados pelo Processing
+build/
+out/
+
+# Ignore arquivos de configuração do Processing
+*.log
+*.prefs
+
+# Ignore arquivos de backup
+*~
+*.bak
+
+# Ignore o diretório de dependências
+libraries/
